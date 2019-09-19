@@ -7,3 +7,6 @@ print u'\u****'
 print '\x***'
 
 ## dSYM的使用 -见图片
+
+## objc转成c语言
+xcrun -sdk iphoneos clang -arch arm64 -rewrite-objc main.m
