@@ -5,3 +5,5 @@ echo -n "要md5的字符串" | md5
 python回车
 print u'\u****'
 print '\x***'
+
+## dSYM的使用
